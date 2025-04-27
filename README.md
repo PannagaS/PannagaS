@@ -18,6 +18,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=PannagaS&theme=default_repocard&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]([https://instagram.com/pannaga_sudarshan](https://www.linkedin.com/in/pannaga-sudarshan-98815a15a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh7CBtZO0ShKtG6cGSB%2FVqQ%3D%3D)) 
+
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pannaga_sudarshan) 
 
 
