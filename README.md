@@ -1,9 +1,10 @@
 # Hi, I'm Pannaga Sudarshan 👋
 
-👨🏻‍💻 Aspiring Roboticist, currently pursuing my Master's in Robotics from the University of Michigan, Ann Arbor 🎓 <br/>
-👉🏼 My intersts are robot perception, linear feedback controls, 6D pose estimation, and deep learning   
-🌎 Go to my [website](https://sites.google.com/view/pannaga-sudarshan/home?authuser=0) for detailed descriptions of my projects, work experiences, and my hobbies! 
+👨🏻‍💻 Aspiring Roboticist, a robotics graduate from the University of Michigan, Ann Arbor 🎓 <br/>
 
+👉🏼 My intersts are Deep Learning for Robot Perception, 6 DoF pose estimation, Sensor Fusion, Bayesian State Estimation, Applied Optimal Controls, Linear Feedback Controls, 3D vision
+
+🌎 Go to my [website](https://sites.google.com/view/pannaga-sudarshan/home?authuser=0) for detailed descriptions of my projects, work experiences, and my hobbies! <img src="https://github.com/user-attachments/assets/c9a087eb-bb42-4440-941b-7660642a4097" width="30" height="30"/> 
 
 
 ## 💻 Tech Stack
