@@ -65,9 +65,16 @@
   </a>
 </p>
 
-### I like really cool animations. My fav things in pixels :) 
+### I like really cool animations. These are some of my fav things in pixels :) 
 
 <img src="https://github.com/user-attachments/assets/dfeeae79-bcd5-4b6a-9c43-9e4a8b6448dc">
+<img src="https://github.com/user-attachments/assets/b135078b-c543-4bb0-84c6-121c76897119" width="320" height="240">
+<img src="https://github.com/user-attachments/assets/7197c99a-92cf-47a3-856f-3e318d13b646" width="320" height="240">
+<img src="https://github.com/user-attachments/assets/7c69c203-ceb1-4b67-9e20-9211732bb3ad" width="320" height="240">
+
+
+
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PannagaS&icon=0&color=8)](https://visitcount.itsvg.in)
