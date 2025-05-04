@@ -65,6 +65,9 @@
   </a>
 </p>
 
+### I like really cool animations. My fav things in pixels :) 
+
+<img src="https://github.com/user-attachments/assets/dfeeae79-bcd5-4b6a-9c43-9e4a8b6448dc">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=PannagaS&icon=0&color=8)](https://visitcount.itsvg.in)
